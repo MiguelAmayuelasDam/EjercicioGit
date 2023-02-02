@@ -8,13 +8,14 @@ package ejerciciogit;
  *
  * @author dam
  */
-public class EjercicioGit {
+public class Principal {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        System.out.println("Hola 1");
+        System.out.println("Hola 2");
     }
     
 }
